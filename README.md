@@ -40,6 +40,14 @@ To view the list, simply double-click "tabstash_host.exe", which will open the t
 
 Please note that the extension is standalone, so it does not strictly need to be connected to the Python tool. However, what is saved in the tool's vault will remain there and will be portable. If you reinstall the extension on another browser, you just need to reconnect it to the tool using the install_host.bat file, and the list located in the vault will be automatically reloaded into the extension.
 
+<img width="462" height="392" alt="a" src="https://github.com/user-attachments/assets/f353416b-3b16-4fa4-8403-98212e99a370" />
+
+
+<img width="926" height="652" alt="b" src="https://github.com/user-attachments/assets/45273919-22fc-464c-80a1-fbf210e25184" />
+
+
+
+
 You can find the extension here:
 
 https://chromewebstore.google.com/detail/tabstash/hkpecjfcjcgnlnbbdgeokcnfkainngkm
