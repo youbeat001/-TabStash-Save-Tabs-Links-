@@ -33,6 +33,8 @@ Next, look for the "TabStash" extension and copy its "Internal UUID", then paste
 Now you need to press the "E" key, since you don't have a locally saved list yet, and this will let you create a new profile where the list will be saved. Finally, press any key when "Press any key to continue . . ." appears. At this point, the green dot should appear on the extension's icon, which means it's connected.
 
 
+You can find the extension here:
+https://addons.mozilla.org/en-US/firefox/addon/tab-stash-save-tabs/
 
 
 ________________________
